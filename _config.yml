@@ -24,7 +24,7 @@ github_username:  rtrevinnoc
 
 # Build settings
 markdown: kramdown
-theme: modernist
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
