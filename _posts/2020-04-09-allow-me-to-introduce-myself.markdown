@@ -4,9 +4,9 @@ title:  "Allow me to introduce myself"
 date:   2020-04-09 03:10:12 -0500
 categories: jekyll update
 ---
-My name is Roberto Treviño Cervantes, I am a 18 year old teenage, deeply concerned with the future of humanity, particularly, the one where we achieve General Artificial Intelligence.
+My name is Roberto Treviño Cervantes, I am an 18 year old teenager, deeply concerned with the future of humanity, particularly, the one where we achieve General Artificial Intelligence.
 
-I live in Monterrey, an industrial city, in the heart of Nuevo León, a northeastern state in Mexico. Coming from a deeply religious family, I had a hard time growing up, as I expressed discontent and deviated from tradition. Today, I am deeply interested in philosophy, mostly existencialism, while I also dip my toes in literature by trying acclaimed classics. I try to lead a healthy lifestyle combining that with a rigorous routine of daily exercise and careful nutrition, consuming exact proportions from each macronutrient group.
+I live in Monterrey, an industrial city, in the heart of Nuevo León, a state in northeastern Mexico. Coming from a deeply religious family, I had a hard time growing up, as I expressed discontent and deviated from tradition. Today, I am deeply interested in philosophy, mostly existentialism, while I also dip my toes in literature by trying acclaimed classics. I try to lead a healthy lifestyle combining that with a rigorous routine of daily exercise and careful nutrition, consuming exact proportions from each macronutrient group.
 
 As as short way to get to know myself, I am a hopeless romantic, in all of the senses of the word, because just as I may fall in love too quickly, I always stand by my ideals passionately. And surprisingly, it turns out that the despicable part of human nature continues to exist in the world of the Internet, with big companies having increasing market shares of the Ad business on the web, we have become a dystopian society, where each of our decisions, each of our likings and actions are most certainly being tracked. My mission, which I self-imposed, is to protect the spark that would allow us to improve, and progress as a society: information.
 
