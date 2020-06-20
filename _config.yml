@@ -24,7 +24,7 @@ github_username:  rtrevinnoc
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: h01000110/windows-95 
 plugins:
   - jekyll-feed
 
