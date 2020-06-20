@@ -1,4 +1,4 @@
 ---
 layout: home
-title: Index
+title: A Glimpse Into The Future
 ---
