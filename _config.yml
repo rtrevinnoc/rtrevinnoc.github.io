@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: A Glimpse Into The Future
-email: rtrevinnoc@hotmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  A personal blog for the creator of FUTURE, a search engine for the modern age, with the intent of further defending the foundation of the web.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: rtrevinnoc
-github_username:  rtrevinnoc
+header_pages:
+  - index.md
+  - about.md
+
+style: dark # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
+
+footer: 'follow me on <a href="https://twitter.com/rtrevinnoc">twitter</a> or <a href="mailto:rtrevinnoc@wearebuildingthefuture">e-mail me</a>'
 
 # Build settings
 markdown: kramdown
