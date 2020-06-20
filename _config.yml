@@ -17,15 +17,11 @@ title: A Glimpse Into The Future
 header_pages:
   - index.md
   - about.md
-
-style: dark # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
-
 footer: 'follow me on <a href="https://twitter.com/rtrevinnoc">twitter</a> or <a href="mailto:rtrevinnoc@wearebuildingthefuture">e-mail me</a>'
 
 # Build settings
 markdown: kramdown
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: rtrevinnoc/jekyll-theme-console
 plugins:
   - jekyll-feed
 
