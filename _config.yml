@@ -13,10 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+title: A Glimpse Into The Future
+email: rtrevinnoc@wearebuildingthefuture.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A personal blog for the creator of FUTURE, a search engine for the modern age, with the intent of further defending the foundation of the web.
+twitter_username: rtrevinnoc
+github_username:  rtrevinnoc
 header_pages:
   - index.md
   - about.md
-footer: 'follow me on <a href="https://twitter.com/rtrevinnoc">twitter</a> or <a href="mailto:rtrevinnoc@wearebuildingthefuture">e-mail me</a>'
+footer: 'follow me on <a href="https://twitter.com/rtrevinnoc">Twitter</a>, <a href="/feed.xml">RSS</a> or <a href="mailto:rtrevinnoc@wearebuildingthefuture">e-mail me</a>'
 
 # Build settings
 markdown: kramdown
