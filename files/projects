@@ -1,8 +1,18 @@
-<strong>FUTURE</strong> - <a href="https://github.com/rtrevinnoc/FUTURE" target="_blank">repo</a>
-&bull; A distributed, P2P search engine in Python
+<strong><a href="https://github.com/Monterrey-Nanoscale-and-Numerical-Works/lithobench" target="_blank">Penumbra</a></strong>
+&bull; HLS Implementation of a Physics-informed Neural Network for ILT.
 
 <a href="https://pear.deno.dev" target="_blank"><strong>Pear</strong></a> - <a href="https://github.com/rtrevinnoc/tree" target="_blank">backend repo</a> / <a href="https://github.com/rtrevinnoc/fruit" target="_blank">frontend repo</a>
-&bull; A (better) distributed, P2P search engine in Rust
+&bull; A distributed, P2P search engine in Rust using HNSW graphs and word embeddings for semantic lookup.
+&bull; Presented for VC funding at Startup Studio Monterrey and Alestra.
+
+<strong>Trajectory Control Optimization</strong>
+&bull; Systematic review of higher-order motion profiles for photolithography scanners, presented at the IEEE Latin American Robotics Competition and Symposium (LARS) 2025.
+
+<strong>Kalman-Bucy Filter Design</strong>
+&bull; Motion control system for a simple pendulum, presented as a talk for the Sociedad Matemática Mexicana.
+
+<strong>FUTURE</strong> - <a href="https://github.com/rtrevinnoc/FUTURE" target="_blank">repo</a>
+&bull; A distributed, P2P search engine implemented in Python.
 
 <strong>Chilito</strong> - <a href="https://github.com/rtrevinnoc/Chilito" target="_blank">github</a>
-&bull; A procedurally-generated platform in Unity
+&bull; A procedurally-generated platformer developed in Unity.
